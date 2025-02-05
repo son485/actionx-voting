@@ -45,3 +45,16 @@ aptos move publish --profile admin-account
 
 ```
 
+
+## License
+
+This project is open-source and available under the MIT License.
+
+## Contributions
+
+Feel free to submit pull requests or open issues for improvements and bug fixes.
+
+## Contact
+
+For any questions or support, please reach out via GitHub Issues.
+
